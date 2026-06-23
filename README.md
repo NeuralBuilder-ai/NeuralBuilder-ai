@@ -23,7 +23,7 @@ I design and develop modern, responsive, and conversion-focused websites for bus
 ### 📁 Featured Projects (Demo Gallery)
 
 
-#### 2. [Solis Yoga Studio](https://thunderous-bubblegum-00a9b6.netlify.app/demo-yoga.html)
+#### 2. [Solis Yoga Studio](https://thunderous-bubblegum-00a9b6.netlify.app/)
 *Editorial-style wellness studio platform.*
 - **Aesthetic:** Warm, soothing neutral background colors (`#F7F4EF`) paired with elegant typography (`Cormorant Garamond`).
 - **Features:** Group class category cards with custom meta attributes (duration/level) and a multi-tier structured membership pricing grid.
